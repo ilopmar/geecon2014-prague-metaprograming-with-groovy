@@ -1,0 +1,5 @@
+# src/main/resources/META-INF/services/org.codehaus.groovy.runtime.ExtensionModule
+
+moduleName = string-utils-module
+moduleVersion = 0.1
+extensionClasses = geecon2014.StringUtilsExtension
